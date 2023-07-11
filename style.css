@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500;700&family=Inter:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#main {
+  margin: 64px auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 1024px;
+}
+
+#logo {
+  padding: 0 138px 32px;
+}
+
+h1 {
+  color: #3f3d56;
+  text-align: center;
+  font-family: Dosis;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+
+  margin-bottom: 16px;
+}
+
+h1 span {
+  color: #ee24ff;
+  font-weight: 700;
+}
+
+p {
+  width: 540px;
+
+  color: #828282;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+p span {
+  color: #3f3d56;
+  font-weight: 700;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#line {
+  width: 391px;
+}
+
+ul {
+  list-style: none;
+
+  display: flex;
+  flex-flow: row wrap;
+  gap: 42px;
+
+  margin: 16px 0 40px;
+}
+
+a {
+  text-decoration: none;
+  color: #3f3d56;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 147.682%;
+}
+
+a:hover {
+  color: #ee24ff;
+  text-decoration: underline;
+}
+
+#wave {
+  width: 1024px;
+  height: 104px;
+}
