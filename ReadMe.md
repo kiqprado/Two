@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Você pode visualizar o resultado clincando neste [LINK]().
+Você pode visualizar o resultado clincando neste [LINK](https://kiqprado.github.io/Two/).
 
 ---
 <div align="center">
